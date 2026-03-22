@@ -1,0 +1,6 @@
+project_id       = "my-project"
+primary_region   = "us-central1"
+secondary_region = "us-east1"
+machine_type     = "e2-standard-2"
+db_tier          = "db-custom-2-7680"
+network_name     = "prod-vpc-network"
